@@ -156,36 +156,46 @@ Based Building Extraction </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(30).pdf" style="text-decoration:none;">Engineering
 Mathematics in Ship Design</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(31).pdf" style="text-decoration:none;">Artificial Intelligence for Smart and Sustainable Energy Systems and Applications</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(32).pdf" style="text-decoration:none;">Diagnostics of Short Electron Bunches with THz Detectors in Particle Accelerators</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(33).pdf" style="text-decoration:none;">Modeling and Experimental
+Characterization of Nanocomposite Materials</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(34).pdf" style="text-decoration:none;">Higher Symmetries and Its Application in Microwave Technology, Antennas and Metamaterials</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(35).pdf" style="text-decoration:none;">Recent Trends in Phosphate Mining and Beneficiation and Related Waste Management</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(36).pdf" style="text-decoration:none;">Ultrafast Nonlinear
+Silicon Waveguides and Quantum Dot Semiconductor Optical Amplifiers</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(37).pdf" style="text-decoration:none;">Trends in Catalytic Wet Peroxide Oxidation Processes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(38).pdf" style="text-decoration:none;">District Heating and
+Cooling Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(39).pdf" style="text-decoration:none;">Modified Mass-Spring System
+for Physically Based Deformation Modeling</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(40).pdf" style="text-decoration:none;">Silicon-Based Nanomaterials:
+Technology and Applications</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(41).pdf" style="text-decoration:none;">Energy Storage and Management for Electric Vehicles</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(42).pdf" style="text-decoration:none;">Wireless Data Transmission for
+the Battery Management System of Electric and Hybrid Vehicles</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(43).pdf" style="text-decoration:none;">Modelling and
+Management of Irrigation System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(44).pdf" style="text-decoration:none;">Silicon Photonic Modulators
+for Low-power Applications</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(45).pdf" style="text-decoration:none;">Carbon Capture
+and Storage</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(46).pdf" style="text-decoration:none;">Food Packaging: 
+Materials and Technologies</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(47).pdf" style="text-decoration:none;">Real-time Digital Signal Processing for Software-defined Optical Transmitters and Receivers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(48).pdf" style="text-decoration:none;">High Cycle Fatigue of Al and Cu Thin Films by a Novel High-Throughput Method</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(49).pdf" style="text-decoration:none;">Application of the cohesive zone model to the analysis of rotors with a transverse crack</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(50).pdf" style="text-decoration:none;">Nanoscale investigation of potential distribution in operating Cu(In,Ga)Se<sub>2</sub> thin-film solar cells</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
 
