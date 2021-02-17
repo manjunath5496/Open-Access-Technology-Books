@@ -82,4 +82,11 @@ Cement Composites: New Insights in Structural and Material Engineering</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/kp(32).pdf" style="text-decoration:none;">Intelligent Imaging
 and Analysis</a></li> 
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/kp(33).pdf" style="text-decoration:none;">Marine Oil Spills
+2018</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/kp(34).pdf" style="text-decoration:none;">Science, Characterization and Technology of Joining and Welding</a></li> 
+
+
+
+
 </ul>
