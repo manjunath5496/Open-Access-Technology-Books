@@ -526,8 +526,7 @@ electro-optic modulators for high-speed and power-efficient communications</a></
 Resilience: A New Paradigm of Nuclear Safety</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(207).pdf" style="text-decoration:none;">Recent Advances in Mechanics of Non-Newtonian Fluids</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(208).pdf" style="text-decoration:none;">Temporal Information Extraction
-Extracting Events and Temporal Expressions: A Literature Survey</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(208).pdf" style="text-decoration:none;">Marine Structures</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tk(209).pdf" style="text-decoration:none;">Holistic integration of product, process and resources integration in the automotive industry using the example of car body design and production : product design, process modeling, IT implementation and potential benefits</a></li>
