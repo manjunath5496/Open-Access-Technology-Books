@@ -6,9 +6,10 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/kp(1).pdf" style="text-decoration:none;">The Origins of Telicity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/kp(1).pdf" style="text-decoration:none;">Sensors in Agriculture: 
+Volume 1</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/kp(2).pdf" style="text-decoration:none;">SupervisedWithin-Document Event Coreference using Information Propagation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/kp(2).pdf" style="text-decoration:none;">Structure and Mechanical Properties of Transition Group Metals, Alloys, and Intermetallic Compounds</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/kp(3).pdf" style="text-decoration:none;">Nominal Reference, Temporal
 Constitution and Quantification in Event Semantics</a></li>
