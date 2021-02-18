@@ -955,43 +955,53 @@ Polymers</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(200).pdf" style="text-decoration:none;">Shale Oil and
 Shale Gas Resources</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(201).pdf" style="text-decoration:none;">A neural network based Event extraction system for Indian languages</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(201).pdf" style="text-decoration:none;">Smart Coatings
+on Fibers and Textiles</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(202).pdf" style="text-decoration:none;">Rule based Event Extraction System from Newswires and Social Media Text in Indian Languages (EventXtract-IL) for English and Hindi Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(202).pdf" style="text-decoration:none;">Sustainability of
+Fossil Fuels</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(203).pdf" style="text-decoration:none;">Modeling Event Extraction via Multilingual Data Sources</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(203).pdf" style="text-decoration:none;">Sustainable Energy Systems Planning, Integration and Management</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(204).pdf" style="text-decoration:none;">Event Nugget Detection, Classification and Coreference Resolution using Deep Neural Networks and Gradient Boosted Decision Trees</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(205).pdf" style="text-decoration:none;">Illinois CCG Entity Discovery and Linking, Event Nugget Detection and Co-reference, and Slot Filler Validation Systems for TAC 2016</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(204).pdf" style="text-decoration:none;">Biaxial Characterization and Mean-field Based Damage Modeling of Sheet Molding Compound Composites</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(205).pdf" style="text-decoration:none;">Diffraction and Scattering in Launchers of Quasi-Optical Mode Converters for Gyrotrons</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(206).pdf" style="text-decoration:none;">
-UTD's Event Nugget Detection and Coreference System at KBP 2016</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(207).pdf" style="text-decoration:none;">WIP Event Detection System at TAC KBP 2016 Event Nugget Track</a></li>
+Advances in Hard-to-Cut Materials</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(207).pdf" style="text-decoration:none;">Catalysts
+Deactivation, Poisoning and Regeneration</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(208).pdf" style="text-decoration:none;">Temporal Information Extraction
-Extracting Events and Temporal Expressions: A Literature Survey</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(208).pdf" style="text-decoration:none;">Efficiency of Bank Filtration
+and Post-Treatment</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(209).pdf" style="text-decoration:none;">The Algebra of Events</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(210).pdf" style="text-decoration:none;">Time in Language, Language in Time</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(209).pdf" style="text-decoration:none;">Energy Performance and Indoor
+Climate Analysis in Buildings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(210).pdf" style="text-decoration:none;">Fracture, Fatigue and Structural Integrity of Metallic Materials</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(211).pdf" style="text-decoration:none;">Verbs and Times</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(211).pdf" style="text-decoration:none;">Geoinformatics in Citizen Science</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(212).pdf" style="text-decoration:none;">The stages of event extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(213).pdf" style="text-decoration:none;">Extracting Complex Biological Events with Rich Graph-Based Feature Sets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(212).pdf" style="text-decoration:none;">Implantable
+Microdevices</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(213).pdf" style="text-decoration:none;">Improved Reservoir Models and Production Forecasting Techniques for Multi-Stage Fractured Hydrocarbon Wells</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(214).pdf" style="text-decoration:none;">Biomedical Event Extraction without Training Data</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(215).pdf" style="text-decoration:none;">A Markov Logic Approach to Bio-Molecular Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(214).pdf" style="text-decoration:none;">Instruments and Methods for
+Cyclotron Produced Radioisotopes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(215).pdf" style="text-decoration:none;">Mechanism Design
+for Robotics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(216).pdf" style="text-decoration:none;">Syntactic Dependency Based Heuristics for Biological Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(217).pdf" style="text-decoration:none;">Can One Language Bootstrap the Other: A Case Study on Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(216).pdf" style="text-decoration:none;">Modeling, Design and Optimization of Multiphase Systems in Minerals Processing</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(217).pdf" style="text-decoration:none;">Molecular
+Computing and Bioinformatics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(218).pdf" style="text-decoration:none;">Graph-based Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(219).pdf" style="text-decoration:none;">A Pairwise Event Coreference Model, Feature Impact and Evaluation for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(220).pdf" style="text-decoration:none;">Biomedical Event Extraction from Abstracts and Full Papers using Search-based Structured Prediction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(218).pdf" style="text-decoration:none;">Progress in
+Water Footprint Assessment</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(219).pdf" style="text-decoration:none;">Sports Materials</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(220).pdf" style="text-decoration:none;">Surfaces and Interfaces for
+Renewable Energy</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(221).pdf" style="text-decoration:none;">Robust Biomedical Event Extraction with Dual Decomposition and Minimal Domain Adaptation</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(222).pdf" style="text-decoration:none;">Biomedical Event Extraction
