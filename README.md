@@ -691,7 +691,7 @@ Highly Energy-efficient Sensor Networks</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(70).pdf" style="text-decoration:none;">Compact Environment Modelling from Unconstrained Camera Platforms</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(71).pdf" style="text-decoration:none;"> The Future of Ideas: The Fate of the Commons in a Connected World</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(72).pdf" style="text-decoration:none;">Distributed Energy Storage Devices in Smart Grids</a></li> 
  
@@ -706,8 +706,7 @@ Microwave Medical Applications</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(77).pdf" style="text-decoration:none;">Civil Engineering and Symmetry</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(78).pdf" style="text-decoration:none;">REMIX: Making Art and Commerce Thrive in the Hybrid Economy</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(79).pdf" style="text-decoration:none;">Cell-Free Synthetic Biology</a></li>
 
 
@@ -728,7 +727,7 @@ Definitions, Concepts and Solution Approaches</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(87).pdf" style="text-decoration:none;">Functional elements and engineering template-based product development process. Application for the support of stamping tool design</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(88).pdf" style="text-decoration:none;">Broadband amplifiers for high data rates using InP/InGaAs double heterojunction bipolar transistors</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(89).pdf" style="text-decoration:none;">Free Culture - How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity</a></li>
   
   
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(90).pdf" style="text-decoration:none;"> Discrete time analysis of batch processes in material flow systems</a></li>
