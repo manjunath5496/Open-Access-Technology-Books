@@ -1003,31 +1003,41 @@ Water Footprint Assessment</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(220).pdf" style="text-decoration:none;">Surfaces and Interfaces for
 Renewable Energy</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(221).pdf" style="text-decoration:none;">Robust Biomedical Event Extraction with Dual Decomposition and Minimal Domain Adaptation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(222).pdf" style="text-decoration:none;">Biomedical Event Extraction
-by Multi-class Classification of Pairs of Text Entities</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(221).pdf" style="text-decoration:none;">Sustainable Smart Cities and Smart Villages Research</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(222).pdf" style="text-decoration:none;">Synthesis, Study
+and Utilization of Natural Products</a></li> 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(223).pdf" style="text-decoration:none;">A Hybrid Approach for Biomedical Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(223).pdf" style="text-decoration:none;">Thin Films for
+Energy Harvesting, Conversion, and Storage</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(224).pdf" style="text-decoration:none;">Unsupervised Techniques for Extracting and Clustering Complex Events in News</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(224).pdf" style="text-decoration:none;">Biofuel and
+Bioenergy Technology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(225).pdf" style="text-decoration:none;">Evaluation for Partial Event Coreference</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(226).pdf" style="text-decoration:none;">Translating Granularity of Event Slots into Features for Event Coreference Resolution</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(227).pdf" style="text-decoration:none;">From Light to Rich ERE:
-Annotation of Entities, Relations, and Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(228).pdf" style="text-decoration:none;">A Comparison of Event Representations in DEFT</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(229).pdf" style="text-decoration:none;">A Two-stage Approach for Extending Event Detection to New Types via Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(225).pdf" style="text-decoration:none;">Control and Nonlinear Dynamics on Energy Conversion Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(226).pdf" style="text-decoration:none;">Creep and High Temperature
+Deformation of Metals and Alloys</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(227).pdf" style="text-decoration:none;">Modeling and Practice
+of Erosion and Sediment Transport under Change</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(228).pdf" style="text-decoration:none;">New Industry 4.0 Advances in Industrial IoT and Visual Computing for Manufacturing Processes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(229).pdf" style="text-decoration:none;">Modern Grinding Technology
+and Systems</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(230).pdf" style="text-decoration:none;"> Building a Cross-document Event-Event Relation Corpus </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(230).pdf" style="text-decoration:none;"> Manufacturing
+and Application of Stainless Steels </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(231).pdf" style="text-decoration:none;">
-Biomolecular Event Extraction using a Stacked Generalization based Classifier</a></li>
+Dynamics of the Coastal Zone</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(232).pdf" style="text-decoration:none;">Biomedical Event Extraction using Abstract Meaning Representation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(233).pdf" style="text-decoration:none;">Automatically Acquiring Conceptual Patterns Without an Annotated Corpus</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(234).pdf" style="text-decoration:none;">Event Coreference for Information Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(235).pdf" style="text-decoration:none;">Automatic Event and Relation Detection with Seeds of Varying Complexity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(232).pdf" style="text-decoration:none;">Soft Material-Enabled
+Electronics for Medicine, Healthcare, and Human-Machine Interfaces</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(233).pdf" style="text-decoration:none;">Application of
+Bioinformatics in Cancers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(234).pdf" style="text-decoration:none;">High Voltage
+Engineering and Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(235).pdf" style="text-decoration:none;">Wearable Wireless
+Devices</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(236).pdf" style="text-decoration:none;">Event Structures in Linguistic Form and Interpretation (Introduction)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(236).pdf" style="text-decoration:none;">Soil Water
+Conservation: Dynamics and Impact</a></li>
 </ul>
