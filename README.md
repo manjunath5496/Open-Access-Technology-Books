@@ -1039,4 +1039,35 @@ Devices</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(236).pdf" style="text-decoration:none;">Soil Water
 Conservation: Dynamics and Impact</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(237).pdf" style="text-decoration:none;">Sustainable Utilization of Metals—Processing, Recovery and Recycling</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(238).pdf" style="text-decoration:none;"> Remote Sensing of
+Evapotranspiration (ET) </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(239).pdf" style="text-decoration:none;">
+Variable illumination and invariant features for detecting and classifying varnish defects</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(240).pdf" style="text-decoration:none;">Improving the Spectral Bandwidth of Superconducting Nanowire Single-Photon Detectors (SNSPDs)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(241).pdf" style="text-decoration:none;">Biomaterials
+for Bone Tissue Engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(242).pdf" style="text-decoration:none;">Antimicrobial
+Resistance in Environmental Waters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(243).pdf" style="text-decoration:none;">Applications of Power Electronics: Volume 1</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(244).pdf" style="text-decoration:none;">Artificial
+Superintelligence: Coordination and Strategy</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(245).pdf" style="text-decoration:none;">Autonomous
+Control of Unmanned Aerial Vehicles</a></li>
+
+
+
+
+
+
+
+
+
+
 </ul>
