@@ -1061,13 +1061,43 @@ Superintelligence: Coordination and Strategy</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(245).pdf" style="text-decoration:none;">Autonomous
 Control of Unmanned Aerial Vehicles</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(246).pdf" style="text-decoration:none;">Bainite and Martensite: Developments and Challenges</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(247).pdf" style="text-decoration:none;">Big Data Research for Social Sciences and Social Impact</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(248).pdf" style="text-decoration:none;">Entropy Applications in Environmental and Water Engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(249).pdf" style="text-decoration:none;">Intrinsically
+Biocompatible Polymer Systems</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(250).pdf" style="text-decoration:none;">Multiscale Turbulent Transport</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(251).pdf" style="text-decoration:none;">Optical MEMS</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(252).pdf" style="text-decoration:none;">Remote Sensing
+of Above - Ground Biomass</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(253).pdf" style="text-decoration:none;">Tribology and Surface Engineering</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(254).pdf" style="text-decoration:none;">Tsunami Science
+and Engineering II</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(255).pdf" style="text-decoration:none;">POSS-Based
+Polymers</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(256).pdf" style="text-decoration:none;">Product/Process Fingerprint in
+Micro Manufacturing</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(257).pdf" style="text-decoration:none;">Progress in Combustion Diagnostics, Science and Technology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(258).pdf" style="text-decoration:none;">Siloxane-Based
+Polymers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(259).pdf" style="text-decoration:none;">Superhydrophobic
+Coatings for Corrosion and Tribology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(260).pdf" style="text-decoration:none;">Engineering Fluid
+Dynamics 2018</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Technology-Books/blob/master/tn(261).pdf" style="text-decoration:none;">Machine Learning and Embedded
+Computing in Advanced Driver Assistance Systems (ADAS)</a></li>
 
 
 </ul>
